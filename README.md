@@ -3,12 +3,14 @@
 This repository contains a single Google Colab notebook,
 Rocco_et_al_2026.ipynb, which supports the analyses and figures presented in the manuscript:
 
-Temperature optimization for the production of recombinant β-glucosidase in Komagataella phaffii
-Eduardo Rocco¹, Johan Quezada¹, Kenneth H. Wolfe², Álvaro Díaz-Barrera¹˒³, Carlos Martínez¹, Stephanie Braun-Galleani¹˒³*
+Eduardo Rocco-Martínez 1†, Johan Quezada 1†, Julio Berrios 1,3, Kenneth H. Wolfe 2, Alvaro Díaz-Barrera 1,3, Carlos Martínez 1, Stephanie Braun-Galleani 1,3* 
 
-¹ Escuela de Ingeniería Bioquímica, Pontificia Universidad Católica de Valparaíso, Chile
-² UCD Conway Institute and School of Medicine, University College Dublin, Ireland
-³ Center for Interdisciplinary Research in Biomedicine, Biotechnology and Well-Being (CID3B), PUCV, Chile
+1 Escuela de Ingeniería Bioquímica, Pontificia Universidad Católica de Valparaíso, Av. Brasil 2085, Valparaíso, 2362803, Chile.
+2 UCD Conway Institute and School of Medicine, University College Dublin, Dublin 4, Ireland.
+3 Center for Interdisciplinary Research in Biomedicine, Biotechnology and Well-Being (CID3B), Pontificia Universidad Católica de Valparaíso, Avda. Brasil 2950, Valparaíso, Chile.
+
+† Authors contributed equally to this work
+*Corresponding author. E-mail(s): stephanie.braun@pucv.cl
 
 📘 Contents
 
