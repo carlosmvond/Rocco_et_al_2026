@@ -3,15 +3,17 @@
 This repository contains a single Google Colab notebook,
 Rocco_et_al_2026.ipynb, which supports the analyses and figures presented in the manuscript:
 
-Eduardo Rocco-Martínez 1†, Johan Quezada 1†, Julio Berrios 1,3, Kenneth H. Wolfe 2, Alvaro Díaz-Barrera 1,3, Carlos Martínez 1, Stephanie Braun-Galleani 1,3* 
+Eduardo Rocco-Martínez<sup>1†</sup>, Johan Quezada<sup>1†</sup>, Julio Berrios<sup>1,3</sup>, Kenneth H. Wolfe<sup>2</sup>, Alvaro Díaz-Barrera<sup>1,3</sup>, Carlos Martínez<sup>1</sup>, Stephanie Braun-Galleani<sup>1,3*</sup>
 
-1 Escuela de Ingeniería Bioquímica, Pontificia Universidad Católica de Valparaíso, Av. Brasil 2085, Valparaíso, 2362803, Chile.
-2 UCD Conway Institute and School of Medicine, University College Dublin, Dublin 4, Ireland.
-3 Center for Interdisciplinary Research in Biomedicine, Biotechnology and Well-Being (CID3B), Pontificia Universidad Católica de Valparaíso, Avda. Brasil 2950, Valparaíso, Chile.
+<sup>1</sup> Escuela de Ingeniería Bioquímica, Pontificia Universidad Católica de Valparaíso, Av. Brasil 2085, Valparaíso, 2362803, Chile.
 
-† Authors contributed equally to this work
-*Corresponding author. E-mail(s): stephanie.braun@pucv.cl
+<sup>2</sup> UCD Conway Institute and School of Medicine, University College Dublin, Dublin 4, Ireland.
 
+<sup>3</sup> Center for Interdisciplinary Research in Biomedicine, Biotechnology and Well-Being (CID3B), Pontificia Universidad Católica de Valparaíso, Avda. Brasil 2950, Valparaíso, Chile.
+
+<sup>†</sup> Authors contributed equally to this work
+
+<sup>*</sup> Corresponding author. E-mail(s): stephanie.braun@pucv.cl
 📘 Contents
 
 The notebook reproduces all computational steps used in the study, including:
