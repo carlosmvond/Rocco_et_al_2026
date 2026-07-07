@@ -3,6 +3,8 @@
 This repository contains a single Google Colab notebook,
 Rocco_et_al_2026.ipynb, which supports the analyses and figures presented in the manuscript:
 
+**Integrating dynamic modeling and continuous cultivation to enhance recombinant β-glucosidase production in *Komagataella phaffii***
+
 Eduardo Rocco-Martínez<sup>1†</sup>, Johan Quezada<sup>1†</sup>, Julio Berrios<sup>1,3</sup>, Kenneth H. Wolfe<sup>2</sup>, Alvaro Díaz-Barrera<sup>1,3</sup>, Carlos Martínez<sup>1</sup>, Stephanie Braun-Galleani<sup>1,3*</sup>
 
 <sup>1</sup> Escuela de Ingeniería Bioquímica, Pontificia Universidad Católica de Valparaíso, Av. Brasil 2085, Valparaíso, 2362803, Chile.
